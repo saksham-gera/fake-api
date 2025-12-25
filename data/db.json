@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Amit Sharma",
+            "email": "amit@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Neha Verma",
+            "email": "neha@gmail.com"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "username": "john_doe",
+            "imageUrl": "https://picsum.photos/400/400",
+            "caption": "Hello Instagram!",
+            "likes": 120
+        },
+        {
+            "id": "2",
+            "username": "jane_smith",
+            "imageUrl": "https://picsum.photos/400/401",
+            "caption": "Another day 🌸",
+            "likes": 89
+        }
+    ]
+}
