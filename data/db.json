@@ -25,6 +25,76 @@
             "imageUrl": "https://picsum.photos/400/401",
             "caption": "Another day 🌸",
             "likes": 89
-        }
+        },
+        {
+    "id": "3",
+    "username": "alex_k",
+    "imageUrl": "https://picsum.photos/400/402",
+    "caption": "Chasing sunsets 🌅",
+    "likes": 245
+  },
+  {
+    "id": "4",
+    "username": "maria_l",
+    "imageUrl": "https://picsum.photos/400/403",
+    "caption": "Coffee first ☕",
+    "likes": 132
+  },
+  {
+    "id": "5",
+    "username": "rohit_p",
+    "imageUrl": "https://picsum.photos/400/404",
+    "caption": "Weekend vibes 😎",
+    "likes": 310
+  },
+  {
+    "id": "6",
+    "username": "sara_w",
+    "imageUrl": "https://picsum.photos/400/405",
+    "caption": "Lost in nature 🌿",
+    "likes": 198
+  },
+  {
+    "id": "7",
+    "username": "david_m",
+    "imageUrl": "https://picsum.photos/400/406",
+    "caption": "City lights at night ✨",
+    "likes": 421
+  },
+  {
+    "id": "8",
+    "username": "neha_r",
+    "imageUrl": "https://picsum.photos/400/407",
+    "caption": "Smiles speak louder 😊",
+    "likes": 156
+  },
+  {
+    "id": "9",
+    "username": "tom_j",
+    "imageUrl": "https://picsum.photos/400/408",
+    "caption": "Adventure mode ON 🏔️",
+    "likes": 289
+  },
+  {
+    "id": "10",
+    "username": "priya_s",
+    "imageUrl": "https://picsum.photos/400/409",
+    "caption": "Feeling grateful 💛",
+    "likes": 174
+  },
+  {
+    "id": "11",
+    "username": "kevin_b",
+    "imageUrl": "https://picsum.photos/400/410",
+    "caption": "Gym grind 💪",
+    "likes": 263
+  },
+  {
+    "id": "12",
+    "username": "ananya_c",
+    "imageUrl": "https://picsum.photos/400/411",
+    "caption": "Golden hour magic ✨",
+    "likes": 337
+  }
     ]
 }
